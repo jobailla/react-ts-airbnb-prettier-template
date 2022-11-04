@@ -8196,12 +8196,7 @@ minimatch@^3.0.4, minimatch@^3.1.1, minimatch@^3.1.2:
   dependencies:
     brace-expansion "^1.1.7"
 
-minimist@1, minimist@^1.1.1, minimist@^1.2.0, minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
-
-minimist@^1.2.6:
+minimist@1, minimist@^1.1.1, minimist@^1.2.0, minimist@^1.2.5, minimist@^1.2.6:
   version "1.2.6"
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
   integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
@@ -11880,10 +11875,10 @@ type-check@~0.3.2:
   dependencies:
     prelude-ls "~1.1.2"
 
-type-coverage-core@^2.21.1:
-  version "2.21.1"
-  resolved "https://registry.yarnpkg.com/type-coverage-core/-/type-coverage-core-2.21.1.tgz#1c31ee7040f9a85f9910078f66f95b7b25b13008"
-  integrity sha512-TpsLOfUE/CkHFvISitoro6hJBJoDsC9gpTMnbIofMFg13JnqnpC0n4ber4D66ks42+mkqKRXg6hgUOmQ/DR2BQ==
+type-coverage-core@^2.22.0:
+  version "2.22.0"
+  resolved "https://registry.yarnpkg.com/type-coverage-core/-/type-coverage-core-2.22.0.tgz#552aa5a4fecb45ca90a4c6af37a671132711226c"
+  integrity sha512-j2wjwOTeKc/G6RUrgVsBYuDbum2GnJ/pCQ6/DlMvgs1QBXEqZxI9N6okUSFc14veQBzr01gG0cwmdyagKdf3Sg==
   dependencies:
     fast-glob "3"
     minimatch "3 || 4 || 5"
@@ -11891,13 +11886,13 @@ type-coverage-core@^2.21.1:
     tslib "1 || 2"
     tsutils "3"
 
-type-coverage@^2.21.1:
-  version "2.21.1"
-  resolved "https://registry.yarnpkg.com/type-coverage/-/type-coverage-2.21.1.tgz#267269236b25fe8455b9a488355d16383ff0bd68"
-  integrity sha512-3NPFbC/LWDFuSCafxmLqBRLjxn40IP9g6j8FXXUXs5GbYDG3FBMX/s0bIc+i6nsXiifA1OvKTwSX2Az1LQMdbw==
+type-coverage@^2.22.0:
+  version "2.22.0"
+  resolved "https://registry.yarnpkg.com/type-coverage/-/type-coverage-2.22.0.tgz#232433dd9319860d89df791fed06998a03158d31"
+  integrity sha512-wgM1yH4J5gAszojftiozxb6HSOvoCqYQLmIS5Ybo4HpBtr9BrVgK5duj4e3tkc28Xg6VA2WPB8GFC+oJw352oQ==
   dependencies:
     minimist "1"
-    type-coverage-core "^2.21.1"
+    type-coverage-core "^2.22.0"
 
 type-detect@4.0.8:
   version "4.0.8"
