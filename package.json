@@ -61,7 +61,7 @@
     "eslint-plugin-prettier": "3.4.0",
     "eslint-plugin-react": "7.29.2",
     "eslint-plugin-react-hooks": "4.5.0",
-    "prettier": "2.8.0",
+    "prettier": "2.8.1",
     "prettier-eslint": "13.0.0",
     "prettier-eslint-cli": "7.1.0",
     "type-coverage": "^2.24.1"
